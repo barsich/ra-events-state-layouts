@@ -1,1 +1,2 @@
-# ra-events-state-layouts
+# ra-events-state-layouts [![Build status](https://ci.appveyor.com/api/projects/status/iyap8pc8u3q5f7fn?svg=true)](https://ci.appveyor.com/project/barsich/ra-events-state-layouts)
+[GithubPages](https://barsich.github.io/ra-events-state-layouts/)
