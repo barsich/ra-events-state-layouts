@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Store from './components/Store/Store';
+import Store from './components/Store';
 
 const products = [{
   name: "Nike Metcon 2",

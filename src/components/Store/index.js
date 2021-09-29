@@ -1,8 +1,8 @@
-import ShopCard from './ShopCard/ShopCard';
-import ShopItem from './ShopItem/ShopItem';
+import ShopCard from './ShopCard';
+import ShopItem from './ShopItem';
 import { v4 as uuidv4 } from 'uuid';
 import './Store.css';
-import IconSwitch from './IconSwitch/IconSwitch';
+import IconSwitch from './IconSwitch';
 import { useState } from 'react';
 
 export default function Store(props) {
